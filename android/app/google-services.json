@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "926817075472",
+    "firebase_url": "https://let-s-chat-f813a.firebaseio.com",
+    "project_id": "let-s-chat-f813a",
+    "storage_bucket": "let-s-chat-f813a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926817075472:android:0ba31b7696c61e4f99a595",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926817075472-mahbe526lu6jcr1857rn6pth2oa3ddrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyXwejBq5IkvdWfUrMvEJdw_wP-25sjrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926817075472-mahbe526lu6jcr1857rn6pth2oa3ddrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
